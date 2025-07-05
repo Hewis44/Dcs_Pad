@@ -77,19 +77,50 @@ By the end of the day, I had a working schematic. RP2040, crystal, USB-C, flash,
 
 
 
+## July 2 – matrix,encoders and routing Chaos (8.5-10 hours)
+
+
+
+Woke up with pure dev energy. Had chai, threw on some Lofi beats, and jumped into circuit finalization. Today’s mission: build the matrix logic, add the rotary encoders, and somehow route all this chaos into a neat two-layer PCB. Little did I know I’d be crying over vias by the end.
+
+
+![image](https://github.com/user-attachments/assets/5882c191-9cdb-489a-9353-596860d95146)
+
+
+
+
+Started with the key matrix 3 rows, 3 columns. Every key sits between a row and a column with a 1N4148 diode to prevent ghosting. Pretty standard stuff. Each line connects to the RP2040 directly. I gave rows 0Ω resistors just in case I wanna break them out externally later. The column lines I routed through the bottom layer  space saver.
+
+
+
+![image](https://github.com/user-attachments/assets/be526d96-63af-46a1-86ef-83c17eaab5a3)
+
+
+
+
+Next came the encoders. I used those classic EC11-type rotary encoders. Each one gives two outputs (A/B) for direction and a push button in the middle. For debounce, I added 10k pull-up resistors and 10nF filter caps to GND. The encoder lines eat up a lot of GPIOs — six for A/B, and three more for switch presses  but RP2040 had enough to spare.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7fce29c6-e042-4a4a-ab9d-a5647f27dc24)
+
+
+
+
+Then I added the WS2812 LEDs for some cockpit underglow. These take 5V and expect a strong digital signal. RP2040 outputs 3.3V, so I added a SN74LVC1G17 buffer to step it up. DIN goes in, and the first LED gets clean 5V logic. Each LED also has a 100nF ceramic cap close by for stability.
+
+
+
+![image](https://github.com/user-attachments/assets/a3b05a63-00b8-4792-aacd-39565e860d69)
 
 
 
 
 
 
-
-
-
-
-
-
-
+The routing part was MAD. With switch matrix, encoder lines, power rails, LED tracks  my board looked like spaghetti at one point. Had to slow down, push traces around manually, and optimize for minimum vias. I used wider traces for power lines, threw down GND planes on both layers, and added mounting holes for a future case. Ended the day mentally drained but proud — my PCB was ready to order.
 
 
 
