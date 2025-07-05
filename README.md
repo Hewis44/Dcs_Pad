@@ -40,20 +40,31 @@ The case design was done in Fusion 360 and looks pretty sleek — all black, wit
 [ANIMATION.webm](https://github.com/user-attachments/assets/4924f250-5f39-4459-b63d-888619986233)
 
 
+###  Bill of Materials 
 
-🧾 Detailed Bill of Materials (BOM)
-Component	Description / Purchase Link	Qty	Approx. Cost (USD)	Cost (INR)
-Microcontroller	RP2040 MCU (JLCPCB SMT) – Soldered during PCBA process	1	$6 (included in PCBA)	₹500
-Rotary Encoders	EC11 Rotary Encoder – Robu.in – smooth 20-step with push button	3	$2.5	₹210
-Mechanical Switches	Gateron G Pro 3.0 Blue – Meckeys – clicky, tactile, perfect for flight feel	9	$3	₹250
-Hot-swap Sockets	Kailh Hot-Swap Sockets – Meckeys	9	$1.5	₹125
-Keycaps	Grey Black PBT Keycaps – Meckeys – using numpad/extra keys from the full set	9	$4	₹335
-Diodes	1N4148 Diode – Robu.in – standard for matrix scanning	10	$0.5	₹42
-USB-C Port	USB-C SMT – JLCPCB SMT assembly – Included in PCBA	1	$0.6 (included)	₹50
-Custom PCB (5 pcs)	JLCPCB PCB Prototype – 2-layer, black, HASL finish	5	$23.39	₹1950
-PCBA (2 pcs)	JLCPCB PCBA Service – Bottom-side SMT assembly (RP2040, passives, connectors)	2	$84.95	₹7100
-Shipping	DHL Express – arrives fast, decent customs handling	1	$24.34	₹2036
-Case	3D Printed (Black PLA) or Laser-cut Acrylic – home job	1	$5	₹420
+| Component              | Source & Link                                                                                                                                     | Qty | Total Cost (INR) | Total Cost (USD) |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----|------------------:|------------------:|
+| Microcontroller (RP2040) | PCBA with RP2040 & passives – [neomacro.in](https://neomacro.in)                                                                                 | 1   | ₹500              | $6.00             |
+| Rotary Encoders        | [EC11 with Push – neomacro.in](https://neomacro.in)                                                                                                | 3   | ₹630              | $7.40             |
+| Mechanical Switches    | [Generic Blue Switches – Amazon.in](https://www.amazon.in/dp/B08H7V3HPG) (10 pcs pack)                                                             | 9   | ₹400              | $4.70             |
+| Hot-swap Sockets       | [Kailh Sockets – neomacro.in](https://neomacro.in)                                                                                                 | 9   | ₹450              | $5.30             |
+| Keycaps                | [Basic Keycaps – Amazon.in](https://www.amazon.in/dp/B09KXBCBJ8) (OEM profile)                                                                    | 9   | ₹500              | $5.90             |
+| Diodes (1N4148)        | [Standard Diodes – neomacro.in](https://neomacro.in)                                                                                               | 10  | ₹100              | $1.20             |
+| USB-C Port             | Included in PCBA via [neomacro.in](https://neomacro.in)                                                                                            | 1   | ₹50               | $0.60             |
+| Custom PCB (5 pcs)     | Prototype via [neomacro.in / JLCPCB](https://neomacro.in)                                                                                          | 5   | ₹1,950            | $23.39            |
+| PCBA (SMT) (1 pcs)     | One fully assembled board via [neomacro.in / JLCPCB](https://neomacro.in)                                                                          | 1   | ₹3,550            | $42.47            |
+| Shipping               | Combined / economy option via [neomacro.in](https://neomacro.in)                                                                                   | 1   | ₹1,770            | $21.20            |
+| Case                   | DIY laser cut acrylic or 3D printed PLA – **user supplied**                                                                                        | 1   | ₹500              | $6.00             |
+
+---
+
+###  Total Cost
+
+**INR:** ₹10,400  
+**USD:** ~$129.16
+
+
+
 
 The total estimated cost of the entire build comes out to approximately $123.68, which in Indian rupees is roughly ₹10,600 based on a dollar rate of ₹85. This includes everything — PCB fabrication, PCBA service, components, and shipping.
 
