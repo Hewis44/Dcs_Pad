@@ -136,6 +136,10 @@ The routing part was MAD. With switch matrix, encoder lines, power rails, LED tr
 
 
 ADDED SILKSCREEN OBVIOUSLY
+
+
+
+
 Ended the day mentally drained but proud  my PCB was ready to order.
 
 
@@ -145,106 +149,138 @@ Ended the day mentally drained but proud  my PCB was ready to order.
 
 
 
+## July 3 – BOM Breakdown, Firmware Work & Case Prep (4.5 hours)
 
 
 
+![image](https://github.com/user-attachments/assets/62b95393-5b42-4619-a2aa-86fc53221b6a)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Today was more chill but still packed with essential stuff. First thing I did was sit and finalize the Bill of Materials (BOM). I hit up neomacro.in and Amazon.in, comparing prices and matching part numbers. Found a 72-pack of Gateron Blue switches on Amazon for around ₹5,300 — used 9 for this build, so ₹663 went into the BOM. The Kailh hot-swap sockets were on neomacro for ₹450. The rotary encoders I grabbed from Robu.in for about ₹210 each. Diodes and resistors came from my local box of components.
 
 
 
 
 
 ![image](https://github.com/user-attachments/assets/2b05f3b4-bd71-48d9-9796-1fa74e75dc8e)
+
+
+
+
+Next, I went to JLCPCB via neomacro and uploaded the Gerbers. Ordered 5 PCBs (black soldermask, HASL finish), and also did PCBA for 2 boards with RP2040, USB-C, flash, all passives soldered. Saved me a ton of time — hand soldering QFN chips is hell. Total JLC cost with shipping came around ₹9,050. Shipping alone was ₹2,036 but worth it for DHL  I want this thing before the weekend, not next month.
+
+
+![image](https://github.com/user-attachments/assets/f819b825-41dd-45c2-983b-3cf7ab8f79c4)
+
+
+![image](https://github.com/user-attachments/assets/72dda394-f42b-4410-8e57-f5a382dcb3c7)
+
+![image](https://github.com/user-attachments/assets/5740f5d0-2d4d-4e78-bed3-cdbc34490f55)
+
+![image](https://github.com/user-attachments/assets/d8bb0830-28ff-4c5d-b194-49da9483cfd0)
+
+![image](https://github.com/user-attachments/assets/6dc7fcd5-1109-4240-b538-d2e5cdb2eb27)
+
+
+Then I opened Fusion 360 and designed the outer shell. Simple box-type case with cutouts for USB, encoders, and key caps. Added screw posts, snapped dimensions tight, and left some room for a future acrylic top panel. Planning to 3D print it in black PLA.
+
+
+i ALSO TRIED ANIMATIONS( VERY BAD)
+
+![image](https://github.com/user-attachments/assets/ebb0cae8-cbda-45b4-9333-88d15f3cd007)
+
+[ANIMATION.webm](https://github.com/user-attachments/assets/8ee8b1c9-feb6-40c3-911c-d5dce06c1714)
+
+
+I HOPE THIS GETS APPROVED AND IT WILL GET ME MORE POINTS SO THAT I CAN COME TO UNDERCITY :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
