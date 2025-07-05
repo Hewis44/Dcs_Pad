@@ -1,13 +1,11 @@
 Component,Source & Link,Qty,Total Cost (INR),Total Cost (USD)
-Microcontroller (RP2040),https://neomacro.in,1,500,6.00
 Rotary Encoders,https://neomacro.in,3,630,7.40
-Mechanical Switches,https://www.amazon.in/dp/B08H7V3HPG,9,400,4.70
-Hot-swap Sockets,https://neomacro.in,9,450,5.30
-Keycaps,https://www.amazon.in/dp/B09KXBCBJ8,9,500,5.90
-Diodes (1N4148),https://neomacro.in,10,100,1.20
-USB-C Port,Included in PCBA,1,50,0.60
+Encoder Knobs (Metal),https://neomacro.in,3,270,3.17
+Mechanical Switches (Gateron G Pro 3.0),https://www.amazon.in/dp/B0C6V34QMW,9,663,7.80
+Hot-swap Sockets (Kailh),https://neomacro.in,9,450,5.30
+Keycaps (PBT Black/Grey),https://neomacro.in,9,670,7.90
 Custom PCB (5 pcs),https://neomacro.in,5,1950,23.39
 PCBA (SMT) (1 pcs),https://neomacro.in,1,3550,42.47
-Shipping,https://neomacro.in,1,1770,21.20
-Case,DIY – user supplied,1,500,6.00
-Total,,,"10400","129.16"
+Shipping (Combined),https://neomacro.in,1,1770,21.20
+Case (Laser-cut acrylic + PLA frame),DIY – home build,1,600,7.50
+Total,,,"11180","124.05"
