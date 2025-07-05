@@ -3,7 +3,7 @@ Title: "custom RP2040 Macropad"
 Author: "Hewis44"
 Description: "Everyone using xiao , imma make my own rp2040"
 created_at: "2025-07-01"
-Total time spent: 
+Total time spent: 21.5
 ---
 
 
