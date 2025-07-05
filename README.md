@@ -33,35 +33,32 @@ The case design was done in Fusion 360 and looks pretty sleek — all black, wit
 
 ![Screenshot 2025-07-05 122949](https://github.com/user-attachments/assets/af2aa8fa-b69d-4ffc-8484-8c28ad95855a)
 
+###  Bill of Materials (Premium Build – ₹11,180 / $124.05)
+
+| **Component**                  | **Source & Link**                                                                                                    | **Qty** | **Total Cost (INR)** | **Total Cost (USD)** |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------|--------:|----------------------:|----------------------:|
+| Rotary Encoders                | [neomacro.in](https://neomacro.in)                                                                                   | 3       | ₹630                 | $7.40                |
+| Encoder Knobs (Metal)          | [neomacro.in](https://neomacro.in)                                                                                   | 3       | ₹270                 | $3.17                |
+| Mechanical Switches (Gateron G Pro 3.0) | [Amazon.in – Gateron Blue (72-pack)](https://www.amazon.in/dp/B0C6V34QMW)                                 | 9       | ₹663                 | $7.80                |
+| Hot-swap Sockets (Kailh)       | [neomacro.in](https://neomacro.in)                                                                                   | 9       | ₹450                 | $5.30                |
+| Keycaps (PBT Black/Grey)       | [neomacro.in](https://neomacro.in)                                                                                   | 9       | ₹670                 | $7.90                |
+| Custom PCB (5 pcs)             | [neomacro.in](https://neomacro.in) – powered by JLCPCB                                                               | 5       | ₹1,950               | $23.39               |
+| PCBA (SMT) (1 pcs)             | [neomacro.in / JLCPCB](https://neomacro.in)                                                                          | 1       | ₹3,550               | $42.47               |
+| Shipping (Combined)            | [neomacro.in](https://neomacro.in)                                                                                   | 1       | ₹1,770               | $21.20               |
+| Case (Acrylic + 3D Printed Frame) | DIY with laser-cut acrylic + PLA printed sides                                                                      | 1       | ₹600                 | $7.50                |
+
+---
+
+###  **Total Cost**
+
+**INR:** ₹11,180  
+**USD:** $124.05
 
 
 ![Screenshot 2025-07-05 123004](https://github.com/user-attachments/assets/b2a718bd-713f-49f0-90c3-6f275a94aad9)
 
 [ANIMATION.webm](https://github.com/user-attachments/assets/4924f250-5f39-4459-b63d-888619986233)
 
-
-###  Bill of Materials 
-
-| Component              | Source & Link                                                                                                                                     | Qty | Total Cost (INR) | Total Cost (USD) |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----|------------------:|------------------:|
-| Microcontroller (RP2040) | PCBA with RP2040 & passives – [neomacro.in](https://neomacro.in)                                                                                 | 1   | ₹500              | $6.00             |
-| Rotary Encoders        | [EC11 with Push – neomacro.in](https://neomacro.in)                                                                                                | 3   | ₹630              | $7.40             |
-| Mechanical Switches    | [Generic Blue Switches – Amazon.in](https://www.amazon.in/dp/B08H7V3HPG) (10 pcs pack)                                                             | 9   | ₹400              | $4.70             |
-| Hot-swap Sockets       | [Kailh Sockets – neomacro.in](https://neomacro.in)                                                                                                 | 9   | ₹450              | $5.30             |
-| Keycaps                | [Basic Keycaps – Amazon.in](https://www.amazon.in/dp/B09KXBCBJ8) (OEM profile)                                                                    | 9   | ₹500              | $5.90             |
-| Diodes (1N4148)        | [Standard Diodes – neomacro.in](https://neomacro.in)                                                                                               | 10  | ₹100              | $1.20             |
-| USB-C Port             | Included in PCBA via [neomacro.in](https://neomacro.in)                                                                                            | 1   | ₹50               | $0.60             |
-| Custom PCB (5 pcs)     | Prototype via [neomacro.in / JLCPCB](https://neomacro.in)                                                                                          | 5   | ₹1,950            | $23.39            |
-| PCBA (SMT) (1 pcs)     | One fully assembled board via [neomacro.in / JLCPCB](https://neomacro.in)                                                                          | 1   | ₹3,550            | $42.47            |
-| Shipping               | Combined / economy option via [neomacro.in](https://neomacro.in)                                                                                   | 1   | ₹1,770            | $21.20            |
-| Case                   | DIY laser cut acrylic or 3D printed PLA – **user supplied**                                                                                        | 1   | ₹500              | $6.00             |
-
----
-
-###  Total Cost
-
-**INR:** ₹10,400  
-**USD:** ~$129.16
 
 
 
