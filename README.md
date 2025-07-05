@@ -45,8 +45,7 @@ The case design was done in Fusion 360 and looks pretty sleek — all black, wit
 | Custom PCB (5 pcs)             | [neomacro.in](https://neomacro.in) – powered by JLCPCB                                                               | 5       | ₹1,950               | $23.39               |
 | PCBA (SMT) (1 pcs)             | [neomacro.in / JLCPCB](https://neomacro.in)                                                                          | 1       | ₹3,550               | $42.47               |
 | Shipping (Combined)            | [neomacro.in](https://neomacro.in)                                                                                   | 1       | ₹1,770               | $21.20               |
-| Case (Acrylic + 3D Printed Frame) | DIY with laser-cut acrylic + PLA printed sides                                                                      | 1       | ₹600                 | $7.50                |
-
+| Case (OPTIONAL 3D Printed Frame) | PLA FILAMENT( HAVE PRINTER)                                                                | 1       | ₹600                 | $7.50                |
 ---
 
 ###  **Total Cost**
