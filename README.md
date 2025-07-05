@@ -56,9 +56,6 @@ The case design was done in Fusion 360 and looks pretty sleek — all black, wit
 
 ![Screenshot 2025-07-05 123004](https://github.com/user-attachments/assets/b2a718bd-713f-49f0-90c3-6f275a94aad9)
 
-[ANIMATION.webm](https://github.com/user-attachments/assets/4924f250-5f39-4459-b63d-888619986233)
-
-
 
 
 
