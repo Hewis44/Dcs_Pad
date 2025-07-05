@@ -120,7 +120,23 @@ Then I added the WS2812 LEDs for some cockpit underglow. These take 5V and expec
 
 
 
-The routing part was MAD. With switch matrix, encoder lines, power rails, LED tracks  my board looked like spaghetti at one point. Had to slow down, push traces around manually, and optimize for minimum vias. I used wider traces for power lines, threw down GND planes on both layers, and added mounting holes for a future case. Ended the day mentally drained but proud — my PCB was ready to order.
+The routing part was MAD. With switch matrix, encoder lines, power rails, LED tracks  my board looked like spaghetti at one point. Had to slow down, push traces around manually, and optimize for minimum vias. I used wider traces for power lines, threw down GND planes on both layers, and added mounting holes for a future case AS HELPED BY ROBERT THE PCB GUY ON YT. 
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/888f8223-c6cb-46d9-8524-194564b79975)
+
+
+
+
+
+
+
+
+ADDED SILKSCREEN OBVIOUSLY
+Ended the day mentally drained but proud  my PCB was ready to order.
 
 
 
