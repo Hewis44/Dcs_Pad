@@ -43,8 +43,8 @@ The case design was done in Fusion 360 and looks pretty sleek — all black, wit
 | Hot-swap Sockets (Kailh)       | [neomacro.in](https://neomacro.in)                                                                                   | 9       | ₹450                 | $5.30                |
 | Keycaps (PBT Black/Grey)       | [neomacro.in](https://neomacro.in)                                                                                   | 9       | ₹670                 | $7.90                |
 | Custom PCB (5 pcs)             | [neomacro.in](https://neomacro.in) – powered by JLCPCB                                                               | 5       | ₹1,950               | $23.39               |
-| PCBA (SMT) (1 pcs)             | [neomacro.in / JLCPCB](https://neomacro.in)                                                                          | 1       | ₹3,550               | $42.47               |
-| Shipping (Combined)            | [neomacro.in](https://neomacro.in)                                                                                   | 1       | ₹1,770               | $21.20               |
+| PCBA (SMT) (2 pcs)             |  JLCPCB                                                                     | 1       | ₹3,550               | $42.47               |
+| Shipping (Combined)            |   Jlcpcb                                                                                | 1       | ₹1,770               | $21.20               |
 | Case (OPTIONAL 3D Printed Frame) | PLA FILAMENT( HAVE PRINTER)                                                                | 1       | ₹600                 | $7.50                |
 ---
 
