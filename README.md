@@ -1,4 +1,17 @@
 ## DCS World Macropad – “Sukhoi Control Pad” by Hewis Lamilton
+
+
+
+
+## Please Dont consider this as macropad i have made a custom rp2040 for this - its a production level Macropad specially made for music,games
+
+
+![Screenshot 2025-07-05 174212](https://github.com/user-attachments/assets/3cdf9dbb-49f4-4478-953f-5a13db84d40f)![Screenshot 2025-07-05 174119](https://github.com/user-attachments/assets/1e076f1c-9853-4a6a-9097-e6ee18209ba1)
+![Screenshot 2025-07-05 152348](https://github.com/user-attachments/assets/7778c1f4-f00d-464a-b250-ecc6ba0ff26b)
+
+
+
+
 So yeah, I’ve been flying around in DCS World for a while now, mostly in the Su-27 and F/A-18, and it was just super annoying trying to hit 20 keyboard shortcuts every time I wanted to fire a missile, toggle flaps, or adjust trim. I got tired of fumbling keys and decided to just make my own macropad — something that feels like it belongs in a real cockpit. This whole project is my attempt to bring that control panel vibe right onto my desk, with the clickiness and smooth analog feel you only get from physical controls.
 
 ![image](https://github.com/user-attachments/assets/63e9425c-ff0c-4fce-8bdb-98e976d0ce4f)
